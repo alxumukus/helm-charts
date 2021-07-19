@@ -1,0 +1,4 @@
+global:
+  influxdb:
+     url: "http://influxdb:8086"
+     database: "telegraf"
